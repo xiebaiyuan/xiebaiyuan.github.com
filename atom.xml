@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小白的轻语</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.xiebaiyuan.com/"/>
+  <updated>2016-07-15T17:52:09.137Z</updated>
+  <id>http://www.xiebaiyuan.com/</id>
+  
+  <author>
+    <name>谢小白</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>你好,这个美丽的世界</title>
+    <link href="http://www.xiebaiyuan.com/2016/07/16/%E4%BD%A0%E5%A5%BD-%E8%BF%99%E4%B8%AA%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%B8%96%E7%95%8C/"/>
+    <id>http://www.xiebaiyuan.com/2016/07/16/你好-这个美丽的世界/</id>
+    <published>2016-07-15T17:44:25.000Z</published>
+    <updated>2016-07-15T17:52:09.137Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;strong&gt;我是一颗星，燃烧自己，让夜空璀璨。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;只是，暗淡之后，不该渴望你温暖的月光。&lt;/strong&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;我是一颗星，燃烧自己，让夜空璀璨。&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;只是，暗淡之后，不该渴望你温暖的月光。&lt;/strong&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://www.xiebaiyuan.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
