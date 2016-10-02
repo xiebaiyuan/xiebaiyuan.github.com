@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.xiebaiyuan.com/"/>
-  <updated>2016-10-02T20:56:30.090Z</updated>
+  <updated>2016-10-02T21:32:19.085Z</updated>
   <id>http://www.xiebaiyuan.com/</id>
   
   <author>
@@ -16,14 +16,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title>写在相见又分别之后</title>
     <link href="http://www.xiebaiyuan.com/2016/10/03/%E5%86%99%E5%9C%A8%E9%87%8D%E9%81%87%E4%B9%8B%E5%90%8E/"/>
     <id>http://www.xiebaiyuan.com/2016/10/03/写在重遇之后/</id>
-    <published>2016-10-02T21:22:44.345Z</published>
-    <updated>2016-10-02T20:56:30.090Z</updated>
+    <published>2016-10-02T21:31:21.000Z</published>
+    <updated>2016-10-02T21:32:19.085Z</updated>
     
-    <content type="html">&lt;p&gt;2016年10月3日&lt;/p&gt;
-&lt;p&gt;面对从远方回来的你，&lt;br&gt;不知道心里应该有怎样的波澜。&lt;br&gt;也许是多年以前的记忆太过深刻，&lt;br&gt;再或是这段记忆早已埋在心底。&lt;/p&gt;
+    <content type="html">&lt;p&gt;面对从远方回来的你，&lt;br&gt;不知道心里应该有怎样的波澜。&lt;br&gt;也许是多年以前的记忆太过深刻，&lt;br&gt;再或是这段记忆早已埋在心底。&lt;/p&gt;
 &lt;p&gt;我已经读不懂自己的情绪了。&lt;br&gt;六年的时光，似乎没有给你留下怎样的痕迹。&lt;br&gt;只是记忆中的我早已读不懂现在的自己了。&lt;/p&gt;
 &lt;p&gt;在又见到你的时候，&lt;br&gt;好像一个失散多年的自己回到了身边。&lt;/p&gt;
 &lt;p&gt;不知道有多少被封存的记忆在眼前闪回，&lt;br&gt;一个人莫名其妙的笑，&lt;br&gt;不知道多久没这样开心的笑了。&lt;/p&gt;
@@ -36,58 +35,13 @@
     
     <summary type="html">
     
-      &lt;p&gt;2016年10月3日&lt;/p&gt;
-&lt;p&gt;面对从远方回来的你，&lt;br&gt;不知道心里应该有怎样的波澜。&lt;br&gt;也许是多年以前的记忆太过深刻，&lt;br&gt;再或是这段记忆早已埋在心底。&lt;/p&gt;
-&lt;p&gt;我已经读不懂自己的情绪了。&lt;br&gt;六年的时光，似乎没有给你留下怎样的痕迹。&lt;br&gt;只是记忆中
+      &lt;p&gt;面对从远方回来的你，&lt;br&gt;不知道心里应该有怎样的波澜。&lt;br&gt;也许是多年以前的记忆太过深刻，&lt;br&gt;再或是这段记忆早已埋在心底。&lt;/p&gt;
+&lt;p&gt;我已经读不懂自己的情绪了。&lt;br&gt;六年的时光，似乎没有给你留下怎样的痕迹。&lt;br&gt;只是记忆中的我早已读不懂现在的自己了。&lt;/p&gt;
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://www.xiebaiyuan.com/2016/10/03/%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://www.xiebaiyuan.com/2016/10/03/第二篇博客/</id>
-    <published>2016-10-02T21:18:54.490Z</published>
-    <updated>2016-07-24T15:25:15.692Z</updated>
-    
-    <content type="html">&lt;p&gt;建立这个博客的初衷是写一些自己在Andoid方面的心得。 但是每天在看了那么多人的博客之后，&lt;br&gt;喵的，我突然发现。  感觉似乎想写的东西别人都写过了。&lt;br&gt;似乎怎么写也不如他们写的好了。&lt;br&gt;很多时候生活不也是这样么。&lt;br&gt;你想要的。 你所做的。你能做到的。&lt;br&gt;本就差别很大。&lt;br&gt; 生活的形态就是这样。 我们也没有什么可以悲伤的。&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;建立这个博客的初衷是写一些自己在Andoid方面的心得。 但是每天在看了那么多人的博客之后，&lt;br&gt;喵的，我突然发现。  感觉似乎想写的东西别人都写过了。&lt;br&gt;似乎怎么写也不如他们写的好了。&lt;br&gt;很多时候生活不也是这样么。&lt;br&gt;你想要的。 你所做的。你能做到的。&lt;br
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://www.xiebaiyuan.com/2016/10/03/hello-world/"/>
-    <id>http://www.xiebaiyuan.com/2016/10/03/hello-world/</id>
-    <published>2016-10-02T21:04:36.569Z</published>
-    <updated>2016-10-02T21:05:37.991Z</updated>
-    
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo server&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo generate&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;1&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;div class=&quot;line&quot;&gt;$ hexo deploy&lt;/div&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
+      <category term="随笔" scheme="http://www.xiebaiyuan.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
